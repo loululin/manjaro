@@ -1,7 +1,7 @@
 [TOC]
 
 # manjaro常用软件
-1. 编辑工具 sublime
+1. 编辑工具 sublime(sublime中文支持可以参考我的csdn博客)
 2. 浏览器 chrome
 3. ssh远程客户端工具 remmina
 4. db客户端工具 dbeaver
