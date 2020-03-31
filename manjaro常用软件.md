@@ -25,3 +25,7 @@
 )
 2.在yakuake界面终端右键  选择 编辑当前方案  - 外观  配色方案和背景 Maia
 字体 Noto Mono   字体大小 14.0
+
+# other
+manjaro下打开pdm（powerdesigner）文件,可以参考http://www.dmanywhere.cn/   自己构建一个工具，方便快捷
+
