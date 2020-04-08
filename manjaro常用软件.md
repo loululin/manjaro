@@ -27,5 +27,17 @@
 字体 Noto Mono   字体大小 14.0
 
 # other
-manjaro下打开pdm（powerdesigner）文件,可以参考http://www.dmanywhere.cn/   自己构建一个工具，方便快捷
+1.manjaro下打开pdm（powerdesigner）文件,可以参考http://www.dmanywhere.cn/   自己构建一个工具，方便快捷; 
+2.tim 无法发送接收图片解决，直接关闭ipv6即可,具体操作如下：
+```
+方法是在开机的时候传递一个必要的内核参数。
+用文本编辑器打开 /etc/default/grub 并给GRUB_CMDLINE_LINUX变量添加“ipv6.disable=1”。
+	
+sudo vim /etc/default/grub
+
+找到这一行 GRUB_CMDLINE_LINUX=“xxxxx ipv6.disable=1”
+上面的“xxxxx”代表任何已有的内核参数,在它后面添加“ipv6.disable=1”。
+sudo update-grub
+最后重启电脑
+```
 
