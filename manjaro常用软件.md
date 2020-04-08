@@ -27,7 +27,7 @@
 字体 Noto Mono   字体大小 14.0
 
 # other
-1.manjaro下打开pdm（powerdesigner）文件,可以参考http://www.dmanywhere.cn/   自己构建一个工具，方便快捷; 
+1.manjaro下打开pdm（powerdesigner）文件,可以参考http://www.dmanywhere.cn/   自己构建一个工具，方便快捷;     
 2.tim 无法发送接收图片解决，直接关闭ipv6即可,具体操作如下：
 ```
 方法是在开机的时候传递一个必要的内核参数。
