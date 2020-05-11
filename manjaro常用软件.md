@@ -3,7 +3,7 @@
 # manjaro常用软件
 1. 编辑工具 sublime  [sublime中文支持可以参考我的csdn博客](https://blog.csdn.net/dixialieren/article/details/83624260)
 2. 浏览器 chrome
-3. ssh远程客户端工具 remmina
+3. ssh远程客户端工具 secureCRT(remmina界面字体颜色显示有缺陷）
 4. db客户端工具 dbeaver
 5. 包管理工具 yaourt-gui
 6. 包删除安装工具 octopi
