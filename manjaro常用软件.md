@@ -20,6 +20,7 @@
 17.  web下载工具 uget / thunderspeed
 18.  git client  gitkraken
 19.  端口查看工具 net-tools / lsof
+20. 远程桌面客户端　KRDC  rdp
 # yakuake设置
 1.安装oh my zsh (主题 ZSH_THEME="powerlevel9k/powerlevel9k"
 )
