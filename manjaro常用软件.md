@@ -14,13 +14,14 @@
 11. 空间清理 bleachbit
 12. 防病毒 clamav
 13. java dev idea
-14. 截图 安装deepin 设置 快捷键  全局快捷键  KDE Daemon 设置 alt +a
+14. 截图 安装deepin 设置 快捷键  全局快捷键  KDE Daemon 设置 alt +a (sudo pacman -S flameshot-git #截图工具 flameshot比较好用）
 15. 显示桌面  设置 快捷键  全局快捷键 Plasma  显示桌面 Meta+D
 16. 打开文件资源管理 Dolphin 设置 快捷键 Meta+E
 17.  web下载工具 uget / thunderspeed
 18.  git client  gitkraken
 19.  端口查看工具 net-tools / lsof
 20. 远程桌面客户端　KRDC  rdp
+21. sudo pacman -S screenfetch # 显示Linux环境工具
 # yakuake设置
 1.安装oh my zsh (主题 ZSH_THEME="powerlevel9k/powerlevel9k"
 )
