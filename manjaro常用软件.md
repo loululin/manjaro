@@ -42,4 +42,14 @@ sudo vim /etc/default/grub
 sudo update-grub
 最后重启电脑
 ```
+3.符号连接
+```
+#dbeaver
+sudo ln -s /home/loulvlin/soft/dbeaver/dbeaver /usr/bin/dbeaver
+#typora
+sudo ln -s /home/loulvlin/Downloads/Typora-linux-x64/Typora /usr/bin/typora
+#secureCRT
+sudo ln -s /opt/securecrt/scrt-8.3.4/SecureCRT /usr/bin/secureCRT
+
+```
 
