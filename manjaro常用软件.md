@@ -22,6 +22,7 @@
 19.  端口查看工具 net-tools / lsof
 20. 远程桌面客户端　KRDC  rdp
 21. sudo pacman -S screenfetch # 显示Linux环境工具
+22. 进程管理 系统卫士
 # yakuake设置
 1.安装oh my zsh (主题 ZSH_THEME="powerlevel9k/powerlevel9k"
 )
