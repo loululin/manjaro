@@ -20,9 +20,10 @@
 17.  web下载工具 uget / thunderspeed
 18.  git client  gitkraken
 19.  端口查看工具 net-tools / lsof
-20. 远程桌面客户端　KRDC  rdp
+20. 远程桌面客户端　KRDC  rdp  远程登陆windows
 21. sudo pacman -S screenfetch # 显示Linux环境工具
 22. 进程管理 系统卫士
+23. windowns远程登陆manjaro RealVNC manjaro上安装RealVNC的server，windowns上安装RealVNC的viewer 个体使用参考有道云
 # yakuake设置
 1.安装oh my zsh (主题 ZSH_THEME="powerlevel9k/powerlevel9k"
 )
