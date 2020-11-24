@@ -26,6 +26,7 @@
 23. windowns远程登陆manjaro RealVNC manjaro上安装RealVNC的server，windowns上安装RealVNC的viewer 具体使用参考有道云
 24. txt文本编辑工具 Notepadqq
 25. crontab install--sudo pacman -S cronie && systemctl enable cronie.service
+26. redis client ---AnotherRedisDesktopManager
 # yakuake设置
 1.安装oh my zsh (主题 ZSH_THEME="powerlevel9k/powerlevel9k"
 )
