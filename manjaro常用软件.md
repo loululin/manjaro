@@ -1,5 +1,7 @@
 [TOC]
 
+sudo pacman-mirrors --fasttrack 
+
 # manjaro常用软件
 1. 编辑工具 sublime  [sublime中文支持可以参考我的csdn博客](https://blog.csdn.net/dixialieren/article/details/83624260) && typora
 2. 浏览器 chrome
