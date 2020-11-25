@@ -31,7 +31,7 @@ sudo pacman-mirrors --fasttrack
 26. redis client ---AnotherRedisDesktopManager
 # yakuake设置
 1.安装oh my zsh (主题 ZSH_THEME="powerlevel9k/powerlevel9k"
-)
+)-------NEW powerlevel10k   参考：https://github.com/loululin/powerlevel10k
 2.在yakuake界面终端右键  选择 编辑当前方案  - 外观  配色方案和背景 Maia
 字体 Noto Mono   字体大小 14.0
 
