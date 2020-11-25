@@ -7,8 +7,8 @@ sudo pacman-mirrors --fasttrack
 2. 浏览器 chrome
 3. ssh远程客户端工具 secureCRT(remmina界面字体颜色显示有缺陷）  https://download.csdn.net/download/dixialieren/12408607
 4. db客户端工具 dbeaver[7.1 企业版 破解   https://zhile.io/2019/05/08/dbeaver-license-crack.html]
-5. 包管理工具 yaourt-gui
-6. 包删除安装工具 octopi
+5. 包管理工具 pacman-manager
+6. 包删除安装工具  pacman-manager|||   octopi
 7. 终端工具 oh my zsh
 8. 思维导图 xmind zen
 9. email client thunderbird
