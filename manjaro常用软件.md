@@ -8,14 +8,14 @@ sudo pacman-mirrors --fasttrack
 3. ssh远程客户端工具 secureCRT(remmina界面字体颜色显示有缺陷）  https://download.csdn.net/download/dixialieren/12408607
 4. db客户端工具 dbeaver[7.1 企业版 破解   https://zhile.io/2019/05/08/dbeaver-license-crack.html]
 5. 包管理工具 pamac-manager   开启Aur配置--------进程管理 系统卫士（系统监视器）
-6. 包删除安装工具  pamac-manager|||   octopi
+6. 包删除安装工具  pamac-manager（安装和升级）|||   octopi（卸载）
 7. 终端工具 oh my zsh
 8. 思维导图 xmind zen
-9. email client thunderbird
+9. email client foxmail------aur  使用pamac-manager install
 10. ovpn client openvpn(sudo openvpn --config LOULVLIN.ovpn)
 11. 空间清理 bleachbit
 12. 防病毒 clamav
-13. java dev idea
+13. java dev idea webstorm
 14. 截图 安装deepin 设置 快捷键  全局快捷键  KDE Daemon 设置 alt +a (sudo pacman -S flameshot-git #截图工具 flameshot比较好用）
 15. 显示桌面  设置 快捷键  全局快捷键 Plasma  显示桌面 Meta+D
 16. 打开文件资源管理 Dolphin 设置 快捷键 Meta+E
