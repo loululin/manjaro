@@ -5,7 +5,7 @@ sudo pacman-mirrors --fasttrack
 # manjaro常用软件
 1. 编辑工具 sublime  [sublime中文支持可以参考我的csdn博客](https://blog.csdn.net/dixialieren/article/details/83624260) && typora
 2. 浏览器 chrome
-3. ssh远程客户端工具 secureCRT(remmina界面字体颜色显示有缺陷）  https://download.csdn.net/download/dixialieren/12408607   设置标签显示ip  options->Session Options->Terminal->Emulation->Advanced->other->Ignore window title change requests
+3. ssh远程客户端工具 secureCRT(remmina界面字体颜色显示有缺陷）  https://download.csdn.net/download/dixialieren/12408607   设置标签显示ip  `options->Edit Default Session->Terminal->Emulation->Advanced->other->Ignore window title change requests`
 4. db客户端工具 dbeaver[7.1 企业版 破解   https://zhile.io/2019/05/08/dbeaver-license-crack.html]
 5. 包管理工具 pamac-manager   开启Aur配置--------进程管理 系统卫士（系统监视器）
 6. 包删除安装工具  pamac-manager（安装和升级）|||   octopi（卸载）
