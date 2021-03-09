@@ -60,7 +60,7 @@ sudo ln -s /home/loulvlin/Downloads/Typora-linux-x64/Typora /usr/bin/typora
 #secureCRT
 sudo ln -s /opt/securecrt/scrt-8.3.4/SecureCRT /usr/bin/secureCRT
 #vpnstart
-sudo ln -s /home/loulvlin/vpnstart.sh /user/bin/vpnstart
+sudo ln -s /home/loulvlin/vpnstart.sh /usr/bin/vpnstart
 
 ```
 
