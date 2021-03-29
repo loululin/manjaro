@@ -17,20 +17,21 @@ sudo pacman-mirrors --fasttrack
 12. 防病毒 clamav
 13. java dev idea webstorm
 14. 截图 安装deepin 设置 快捷键  全局快捷键  KDE Daemon 设置 alt +a (sudo pacman -S flameshot-git #截图工具 flameshot比较好用 https://github.com/flameshot-org/flameshot）
-15. 显示桌面  设置 快捷键  全局快捷键 Plasma  显示桌面 Meta+D
-16. 打开文件资源管理 Dolphin 设置 快捷键 Meta+E
-17.  web下载工具 uget / thunderspeed
-18.  git client  gitkraken
-19.  端口查看工具 net-tools / lsof
-20. 远程桌面客户端　KRDC  rdp  远程登陆windows
-21. sudo pacman -S screenfetch # 显示Linux环境工具
-22. 进程管理 系统卫士
-23. windowns远程登陆manjaro RealVNC manjaro上安装RealVNC的server，windowns上安装RealVNC的viewer 具体使用参考有道云
-24. txt文本编辑工具 Notepadqq
-25. crontab install--sudo pacman -S cronie && systemctl enable cronie.service
-26. redis client ---AnotherRedisDesktopManager
-27. mongo client ----robo 3t
-28. wechat ----wine-wecht && wine-for-wechat
+15. 如果flameshot 保存图片报错 参考 有道云笔记中的《Manjaro 使用flameshot作为截图工具》文章
+16. 显示桌面  设置 快捷键  全局快捷键 Plasma  显示桌面 Meta+D
+17. 打开文件资源管理 Dolphin 设置 快捷键 Meta+E
+18.  web下载工具 uget / thunderspeed
+19.  git client  gitkraken
+20.  端口查看工具 net-tools / lsof
+21. 远程桌面客户端　KRDC  rdp  远程登陆windows
+22. sudo pacman -S screenfetch # 显示Linux环境工具
+23. 进程管理 系统卫士
+24. windowns远程登陆manjaro RealVNC manjaro上安装RealVNC的server，windowns上安装RealVNC的viewer 具体使用参考有道云
+25. txt文本编辑工具 Notepadqq
+26. crontab install--sudo pacman -S cronie && systemctl enable cronie.service
+27. redis client ---AnotherRedisDesktopManager
+28. mongo client ----robo 3t
+29. wechat ----wine-wecht && wine-for-wechat
 # yakuake设置
 1.安装oh my zsh (主题 ZSH_THEME="powerlevel9k/powerlevel9k"
 )-------NEW powerlevel10k   参考：https://github.com/loululin/powerlevel10k
