@@ -16,7 +16,7 @@ sudo pacman-mirrors --fasttrack
 11. 空间清理 bleachbit
 12. 防病毒 clamav
 13. java dev idea webstorm
-14. 截图 安装deepin 设置 快捷键  全局快捷键  KDE Daemon 设置 alt +a (sudo pacman -S flameshot-git #截图工具 flameshot比较好用）
+14. 截图 安装deepin 设置 快捷键  全局快捷键  KDE Daemon 设置 alt +a (sudo pacman -S flameshot-git #截图工具 flameshot比较好用 https://github.com/flameshot-org/flameshot）
 15. 显示桌面  设置 快捷键  全局快捷键 Plasma  显示桌面 Meta+D
 16. 打开文件资源管理 Dolphin 设置 快捷键 Meta+E
 17.  web下载工具 uget / thunderspeed
