@@ -71,7 +71,7 @@ plugins=(
 
 ```bash
 cd /home/soft
-git clone git://github.com/joelthelion/autojump.git
+git clone https://github.com/wting/autojump
 ```
 
 `cd autojump`，执行
