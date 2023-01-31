@@ -32,6 +32,7 @@ sudo pacman-mirrors --fasttrack
 27. redis client ---AnotherRedisDesktopManager
 28. mongo client ----robo 3t
 29. wechat ----wine-wecht && wine-for-wechat
+30. 文件搜索 catfish
 # yakuake设置
 1.安装oh my zsh (主题 ZSH_THEME="powerlevel9k/powerlevel9k"
 )-------NEW powerlevel10k   参考：https://github.com/loululin/powerlevel10k
